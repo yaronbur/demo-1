@@ -1,0 +1,44 @@
+# Node.js
+node_modules/
+
+# React build
+client/build/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Environment
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Others
+schedule.json
+
+# Coverage
+coverage/
+
+# IDE
+.idea/
+
+# Misc
+*.swp
+*.swo
+
+# Parcel
+.cache/
+
+# Optional: ignore production build
+build/
